@@ -1,16 +1,52 @@
-# loginpage
+# Flutter Login App
 
-A new Flutter project.
+A Flutter project demonstrating a login flow with splash screen, email/password validation, and a home screen with feature navigation.
+
+---
+
+## Features
+
+- **Splash Screen** with full-screen image.
+- **Login Screen**:
+    - Email and password input fields.
+    - Validation for email format and non-empty password.
+    - Semi-transparent overlay for readability.
+    - Login button and forgot password link.
+- **Home Screen**:
+    - Gradient background.
+    - Feature cards for Profile, Chat, and Settings.
+    - Navigation drawer with Settings and Logout options.
+- Smooth navigation: Splash → Login → Home.
+
+---
+
+## Screenshots
+
+### Splash Screen
+![Splash Screen](images/splash.png)
+
+### Login Screen
+![Login Screen](images/ii.png)
+
+### Home Screen
+*(Add Home Screen screenshot here)*
+![Home Screen](images/splash.png)
+
+---
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK >= 3.9.0
+- Dart SDK
+- Android Studio or VS Code with Flutter plugin
+- Emulator or physical device
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Setup Instructions
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/yourusername/flutter-login-app.git
+cd flutter-login-app
