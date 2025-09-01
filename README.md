@@ -32,8 +32,6 @@ A Flutter project demonstrating a login flow with splash screen, email/password 
 *(Add Home Screen screenshot here)*
 ![Home Screen](images/splash.png)
 
----
-
 ## Getting Started
 
 ### Prerequisites
@@ -46,7 +44,5 @@ A Flutter project demonstrating a login flow with splash screen, email/password 
 ### Setup Instructions
 
 1. **Clone the repository**
-
-```bash
-git clone https://github.com/yourusername/flutter-login-app.git
-cd flutter-login-app
+https://github.com/nimra-ijaz1/login-Page.git
+cd LoginPage
