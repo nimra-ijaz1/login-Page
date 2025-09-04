@@ -42,9 +42,10 @@ A Flutter project demonstrating a login flow with splash screen, email/password 
 - Emulator or physical device
 
 ### Setup Instructions
+ 
+### 1️⃣ Clone the Repository
+```bash
+git clone  https://github.com/nimra-ijaz1/login-Page.git
+cd flutter-login-page
 
-1. **Clone the repository**
-
-git clone https://github.com/nimra-ijaz1/login-Page.git
- cd flutter-login-page
 
